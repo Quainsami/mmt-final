@@ -1,0 +1,10 @@
+__pycache__
+src_songs/bach
+src_songs/bach_img
+src_songs/4s
+src_songs/4s_img
+src_songs/dream
+src_songs/dream_img
+src_songs/toy
+src_songs/toy_img
+*.npy
